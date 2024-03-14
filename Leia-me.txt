@@ -1,0 +1,9 @@
+Se for rodar os arquivos desta pasta, instale via npm e executavel(se possível):
+-Express.js
+-Express-Handlebars
+-Body Parser
+-Mongoose
+-Bootstrap
+-MongoDB
+-Node.js
+-Connect-Flash
